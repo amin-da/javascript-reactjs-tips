@@ -48,7 +48,7 @@ console.log(shape.perimeter());
 
 ---
 
-###### ۱. ری اکت چیست؟
+###### ۲. ری اکت چیست؟
 
 <details><summary><b>جواب</b></summary>
 <p>
