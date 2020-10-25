@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" dir="rtl">
   <img height="60" src="https://img.icons8.com/color/344/javascript.png">
   <img src="https://img.icons8.com/nolan/64/react-native.png"/>
   <h1>نکته های جاوااسکریپت و ری اکت جی اس</h1>
@@ -6,7 +6,7 @@
 ---
 
 <a href="https://twitter.com/HoomanAmini">Twitter</a>
-|| <a href="youtube.com/c/hoomanamini">youtube</a>
+|| <a href="youtube.com/c/hoomanamini">Youtube</a>
 || <a href="https://virgool.io/@amini.hooman">Blog</a>
 
 </div>
@@ -41,6 +41,26 @@ console.log(shape.perimeter());
 
 در فانکشن معمولی کلمه کلیدی ‍`this` به آبجکت shape اشاره می کند
 اما در arrow فانکشن به آبجکت window اشاره دارد که در آن radius وجود ندارد
+
+</div>
+</p>
+</details>
+
+---
+
+###### ۱. ری اکت چیست؟
+
+<details><summary><b>جواب</b></summary>
+<p>
+
+### 20
+
+### NAN
+
+<div dir="rtl">
+ری اکت یک کتابخانه فرانت اند اوپن سورس جاوااسکریپت است که برای ساخت رابط کاربری خصوصا برای اپلکیشن های تک صفه ای بکار می رود.
+
+ری اکت در فیسبوک در سال ۲۰۱۱ ایجاد شد و تا به امروز در حال گسترش است
 
 </div>
 </p>
