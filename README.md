@@ -1,7 +1,8 @@
 <div align="center" dir="rtl">
   <img height="60" src="https://img.icons8.com/color/344/javascript.png">
   <img src="https://img.icons8.com/nolan/64/react-native.png"/>
-  <h1>نکته های جاوااسکریپت و ری اکت جی اس</h1>
+  <h1>نکته ها و سوال های جاوااسکریپت </h1>
+  <h1> و ری اکت جی اس</h1>
 
 ---
 
@@ -10,6 +11,15 @@
 || <a href="https://virgool.io/@amini.hooman">Blog</a>
 
 </div>
+
+|     | فهرست                         |
+| --- | ----------------------------- |
+| ۱   | [جاوااسکریپت](#what-is-react) |
+| ۲   | [ری‌اکت](#what-is-react)      |
+
+---
+
+<div align="center" dir="rtl"> جاوااسکریپت</div>
 
 ---
 
@@ -45,10 +55,38 @@ console.log(shape.perimeter());
 </div>
 </p>
 </details>
+---
+
+###### ۳. خروجی چیست؟
+
+```javascript
+const job = {
+  name: "programmer",
+};
+
+const person = {
+  name: "Hassan",
+  programmer: true,
+};
+
+console.log(person[job["name"]]);
+```
+
+<details><summary><b>جواب</b></summary>
+<p>
+
+<div dir="rtl">
+</div>
+</p>
+</details>
 
 ---
 
-###### ۲. ری اکت چیست؟
+<div align="center" dir="rtl"> ری‌اکت</div>
+
+---
+
+###### ۱. ری اکت چیست؟
 
 <details><summary><b>جواب</b></summary>
 <p>
@@ -66,4 +104,4 @@ console.log(shape.perimeter());
 </p>
 </details>
 
----
+###### ادامه دارد و به مرور بروز رسانی خواهد شد ..........
