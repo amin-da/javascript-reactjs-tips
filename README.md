@@ -12,10 +12,10 @@
 
 </div>
 
-|     | فهرست                         |
-| --- | ----------------------------- |
-| ۱   | [جاوااسکریپت](#what-is-react) |
-| ۲   | [ری‌اکت](#what-is-react)      |
+|     | فهرست                                                                      |
+| --- | -------------------------------------------------------------------------- |
+| ۱   | [جاوااسکریپت](#what-is-react)                                              |
+| ۲   | [ری‌اکت](#%DB%B1-%D8%B1%DB%8C-%D8%A7%DA%A9%D8%AA-%DA%86%DB%8C%D8%B3%D8%AA) |
 
 ---
 
@@ -62,7 +62,7 @@ console.log(shape.perimeter());
 
 ---
 
-###### ۳. خروجی چیست؟
+###### ۲. خروجی چیست؟
 
 ```javascript
 const job = {
@@ -75,13 +75,16 @@ const person = {
 };
 
 console.log(person[job["name"]]);
+console.log(person[job.name]);
 ```
 
 <details><summary><b>جواب</b></summary>
 <p>
 
-<div dir="rtl">
-</div>
+### true
+
+### true
+
 </p>
 </details>
 
