@@ -1,7 +1,7 @@
 <div align="center">
   <img height="60" src="https://img.icons8.com/color/344/javascript.png">
   <img src="https://img.icons8.com/nolan/64/react-native.png"/>
-  <h1>نکات جاوااسکریپت و ری اکت جی اس</h1>
+  <h1>نکته های جاوااسکریپت و ری اکت جی اس</h1>
 
 ---
 
@@ -36,8 +36,8 @@ console.log(shape.perimeter());
 ### NAN
 
 <div dir="rtl">
-توضیح : همانطور که می بینید مقدار ‍‍‍`diameter‍` یک فانکشن معمولی است
-و مقدار `premeter‍‍` یک arrow فانکش است
+توضیح : همانطور که می بینید مقدار ‍‍‍diameter‍  یک فانکشن معمولی است
+و مقدار premeter‍‍ یک arrow فانکش است
 
 در فانکشن معمولی کلمه کلیدی ‍`this` به آبجکت shape اشاره می کند
 اما در arrow فانکشن به آبجکت window اشاره دارد که در آن radius وجود ندارد
