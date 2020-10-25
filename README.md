@@ -37,7 +37,7 @@ console.log(shape.perimeter());
 
 <div dir="rtl">
 توضیح : همانطور که می بینید مقدار ‍‍‍diameter‍  یک فانکشن معمولی است
-و مقدار premeter‍‍ یک arrow فانکش است
+و مقدار perimeter یک arrow فانکش است
 
 در فانکشن معمولی کلمه کلیدی ‍`this` به آبجکت shape اشاره می کند
 اما در arrow فانکشن به آبجکت window اشاره دارد که در آن radius وجود ندارد
