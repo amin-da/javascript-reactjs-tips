@@ -19,7 +19,11 @@
 
 ---
 
+---
+
 <div align="center" dir="rtl"> جاوااسکریپت</div>
+
+---
 
 ---
 
@@ -55,6 +59,7 @@ console.log(shape.perimeter());
 </div>
 </p>
 </details>
+
 ---
 
 ###### ۳. خروجی چیست؟
@@ -82,7 +87,11 @@ console.log(person[job["name"]]);
 
 ---
 
+---
+
 <div align="center" dir="rtl"> ری‌اکت</div>
+
+---
 
 ---
 
