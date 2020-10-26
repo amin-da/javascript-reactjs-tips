@@ -21,7 +21,7 @@
 
 ---
 
-<div align="center" dir="rtl"> جاوااسکریپت</div>
+### javascript
 
 ---
 
@@ -116,9 +116,35 @@ console.log(d.name);
 
 ---
 
+###### ۴. خروجی چیست؟
+
+```javascript
+let c = { name: "hassan" };
+let d;
+
+d = c;
+c.name = "akbar";
+
+console.log(d.name);
+```
+
+<details><summary><b>جواب</b></summary>
+<p>
+
+### akbar
+
+<div dir="rtl">
+در جاوااسکریپت تمام آبجکت ها با ریفرنس ذخیره می شوند لذا یک آبجکت را مساوی آبجکت دیگر قرار می دهیم در فضای حافظه به یک مکان اشاره دارند
+</div>
+
+</p>
+</details>
+
 ---
 
-<div align="center" dir="rtl"> ری‌اکت</div>
+---
+
+### Reactjs
 
 ---
 
