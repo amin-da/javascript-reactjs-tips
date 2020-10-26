@@ -152,6 +152,36 @@ console.log(d.name);
 
 ---
 
+###### ۵. خروجی چیست؟
+
+```javascript
+let number = 0;
+
+console.log(number++);
+console.log(++number);
+console.log(number);
+```
+
+<details><summary><b>جواب</b></summary>
+<p>
+
+### 0 (اول مقدار قبلی نشان داده می شود یعنی صفر و بعد اضافه می شود الان مقدار ۱ است اما صفر نشان داده میشود)
+
+### 2 (مقدار اضافه می شود بعد نشان داده می شود یعنی ۲ و الان مقدار ۲ است)
+
+### 2
+
+<div dir="rtl">
+
+</div>
+
+</p>
+</details>
+
+**[⬆ برو بالا](#index)**
+
+---
+
 ---
 
 ### Reactjs
