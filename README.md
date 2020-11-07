@@ -18,7 +18,7 @@
 
 - [ترفندهای جی اس](/Tips.md)
 
-- [Dan Abramov](/DAnAbramov/index.md)
+- [Dan Abramov](/DanAbramov/index.md)
 
-- [You Dont Know Js](/DanAbramov/index.md)
+- [You Dont Know Js](/You-Dont-Know-JS/index.md)
 <div>
