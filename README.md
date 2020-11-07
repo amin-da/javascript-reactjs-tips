@@ -17,4 +17,8 @@
 - [جاوا اسکریپت چیست؟](/01WhatIsJavascript.md)
 
 - [ترفندهای جی اس](/Tips.md)
+
+- [Dan Abramov](/DAnAbramov/index.md)
+
+- [You Dont Know Js](/DanAbramov/index.md)
 <div>
