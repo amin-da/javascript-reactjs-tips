@@ -16,6 +16,8 @@
 
 - [جاوا اسکریپت چیست؟](/01WhatIsJavascript.md)
 
+- [محدوده یا اسکوپ](/02Scope.md)
+
 - [ترفندهای جی اس](/Tips.md)
 
 - [Dan Abramov](/DanAbramov/index.md)
