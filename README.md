@@ -1,7 +1,7 @@
 <div align="center" dir="rtl">
   <img height="60" src="https://img.icons8.com/color/344/javascript.png">
   <img src="https://img.icons8.com/nolan/64/react-native.png"/>
-  <h1>مفاهیم، نکته و ترفندهای جی اس </h1>
+  <h1>مفاهیم، نکته و ترفندهای جاوااسکریپت و کتابخانه هاو ابزار وابسته </h1>
 
 ---
 
