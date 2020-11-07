@@ -9,6 +9,6 @@
 
 [در فیلم آموزشی در یوتوب می توانید مطلب مربوطه به اسکوپ را مشاهده فرمایید.]()
 
-[![فیلم آموزشی](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/ygGvyoFei60)
+[![فیلم آموزشی](/img/scope.png)](https://youtu.be/ygGvyoFei60)
 
 </div>
