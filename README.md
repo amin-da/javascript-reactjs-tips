@@ -18,6 +18,8 @@
 
 - [محدوده یا اسکوپ](/02Scope.md)
 
+- [ Closure چیست؟](/03Closure.md)
+
 - [ترفندهای جی اس](/Tips.md)
 
 - [Dan Abramov](/DanAbramov/index.md)
