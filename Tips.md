@@ -1,16 +1,4 @@
-<div align="center" dir="rtl">
-  <img height="60" src="https://img.icons8.com/color/344/javascript.png">
-  <img src="https://img.icons8.com/nolan/64/react-native.png"/>
-  <h1>نکته ها و سوال های جاوااسکریپت </h1>
-  <h1> و ری اکت جی اس</h1>
-
----
-
-<a href="https://twitter.com/HoomanAmini">Twitter</a>
-|| <a href="youtube.com/c/hoomanamini">Youtube</a>
-|| <a href="https://virgool.io/@amini.hooman">Blog</a>
-
-</div>
+- [فهرست](/README.md)
 
 ##### index
 

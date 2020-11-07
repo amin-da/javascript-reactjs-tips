@@ -3,7 +3,6 @@
   <img src="https://img.icons8.com/nolan/64/react-native.png"/>
   <h1>مفاهیم، نکته و ترفندهای جی اس </h1>
 
-
 ---
 
 <a href="https://twitter.com/HoomanAmini">Twitter</a>
@@ -15,7 +14,7 @@
 </div>
 <div dir="rtl">
 
-- ## [جاوا اسکریپت چیست؟](/01WhatIsJavascript.md)
+- [جاوا اسکریپت چیست؟](/01WhatIsJavascript.md)
 
-- ## [ترفندهای جی اس](/00Tips.md.md)
+- [ترفندهای جی اس](/Tips.md)
 <div>
