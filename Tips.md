@@ -19,7 +19,11 @@
 
 ---
 
-###### ۱. خروجی چیست؟
+<div dir="rtl">
+
+#### ۱. خروجی چیست؟
+
+</div>
 
 ```javascript
 const shape = {
@@ -57,7 +61,11 @@ console.log(shape.perimeter());
 
 ## </div>
 
-###### ۲. خروجی چیست؟
+<div dir="rtl">
+
+#### ۲. خروجی چیست؟
+
+</div>
 
 ```javascript
 const job = {
@@ -88,7 +96,11 @@ console.log(person[job.name]);
 
 ## </div>
 
-###### ۳. خروجی چیست؟
+<div dir="rtl">
+
+#### ۳. خروجی چیست؟
+
+</div>
 
 ```javascript
 let c = { name: "hassan" };
@@ -117,7 +129,11 @@ console.log(d.name);
 
 ## </div>
 
-###### ۴. خروجی چیست؟
+<div dir="rtl">
+
+#### ۴. خروجی چیست؟
+
+</div>
 
 ```javascript
 let c = { name: "hassan" };
@@ -146,7 +162,11 @@ console.log(d.name);
 
 ## </div >
 
-###### ۵. خروجی چیست؟
+<div dir="rtl">
+
+#### ۵. خروجی چیست؟
+
+</div>
 
 ```javascript
 let number = 0;
