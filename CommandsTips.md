@@ -217,7 +217,7 @@ HASH_SALT=XXXX
 
 <div dir="rtl">
 
-### نحوه مشارکت در در پروزه های گیت هاب
+### نحوه مشارکت در در پروژه های گیت هاب
 
 </div>
 <details><summary><b>جواب</b></summary>
