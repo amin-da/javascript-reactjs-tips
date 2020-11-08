@@ -112,39 +112,6 @@ c.name = "akbar";
 console.log(d.name);
 ```
 
-<div dir="rtl" >
-<details><summary><b>جواب</b></summary>
-<p>
-
-### akbar
-
-<div dir="rtl">
-در جاوااسکریپت تمام آبجکت ها با ریفرنس ذخیره می شوند لذا یک آبجکت را مساوی آبجکت دیگر قرار می دهیم در فضای حافظه به یک مکان اشاره دارند
-</div>
-
-</p>
-</details>
-
-**[⬆ برو بالا](#index)**
-
-## </div>
-
-<div dir="rtl">
-
-#### ۴. خروجی چیست؟
-
-</div>
-
-```javascript
-let c = { name: "hassan" };
-let d;
-
-d = c;
-c.name = "akbar";
-
-console.log(d.name);
-```
-
 <div dir="rtl">
 <details><summary><b>جواب</b></summary>
 <p>
@@ -164,7 +131,7 @@ console.log(d.name);
 
 <div dir="rtl">
 
-#### ۵. خروجی چیست؟
+#### ۴. خروجی چیست؟
 
 </div>
 
@@ -195,7 +162,7 @@ console.log(number);
 
 <div dir="rtl">
 
-#### globalThis چیست؟
+#### ۵.globalThis چیست؟
 
 </div>
 <div dir="rtl">
