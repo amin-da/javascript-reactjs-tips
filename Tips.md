@@ -170,7 +170,28 @@ console.log(number);
 
 **[⬆ برو بالا](#index)**
 
----
+--
+
+#### globalThis چیست؟
+
+<details><summary><b>جواب</b></summary>
+<p>
+
+<div dir="rtl">
+globalThis آبجکت گلوبال کنتکس جاری را به ما بر می گرداند
+
+- در مرورگر window
+
+* در nodejs گلوبال یا global
+
+* در ورکر ها self
+</div>
+</p>
+</details>
+
+**[⬆ برو بالا](#index)**
+
+## --
 
 ---
 
@@ -190,6 +211,21 @@ console.log(number);
 
 ری اکت در فیسبوک در سال ۲۰۱۱ ایجاد شد و تا به امروز در حال گسترش است
 
+</div>
+</p>
+</details>
+
+**[⬆ برو بالا](#index)**
+
+---
+
+###### ۱. سوال
+
+<details><summary><b>جواب</b></summary>
+<p>
+
+<div dir="rtl">
+شرح
 </div>
 </p>
 </details>
