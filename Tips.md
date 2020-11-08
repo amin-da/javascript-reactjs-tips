@@ -172,13 +172,16 @@ console.log(number);
 
 --
 
+<div dir="rtl">
+
 #### globalThis چیست؟
 
+</div>
 <details><summary><b>جواب</b></summary>
 <p>
 
 <div dir="rtl">
-globalThis آبجکت گلوبال کنتکس جاری را به ما بر می گرداند
+globalThis آبجکت گلوبال کانتکس جاری را به ما بر می گرداند
 
 - در مرورگر window
 
