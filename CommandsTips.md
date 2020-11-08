@@ -16,6 +16,8 @@
 
 ---
 
+---
+
 ### Postgres
 
 ---
@@ -48,7 +50,7 @@ or sudo -u postgres psql
 
 <div dir="rtl">
 
-### نحوه کنکت به دیتابس و نمایش جداول آن
+### نحوه وصل شدن به دیتابس و نمایش جداول آن
 
 </div>
 
@@ -69,7 +71,7 @@ or sudo -u postgres psql
 
 <div dir="rtl">
 
-### نحوه حذف یک دیتا بیس
+### نحوه حذف یک دیتابیس
 
 </div>
 <details><summary><b>جواب</b></summary>
