@@ -24,7 +24,7 @@
 
 <div dir="rtl">
 
-###### نحوه اجرای محیط پستگرس
+### نحوه اجرای محیط پستگرس
 
 </div>
 
@@ -48,7 +48,7 @@ or sudo -u postgres psql
 
 <div dir="rtl">
 
-###### نحوه کنکت به دیتابس و نمایش جداول آن
+### نحوه کنکت به دیتابس و نمایش جداول آن
 
 </div>
 
@@ -69,7 +69,7 @@ or sudo -u postgres psql
 
 <div dir="rtl">
 
-###### نحوه حذف یک دیتا بیس
+### نحوه حذف یک دیتا بیس
 
 </div>
 <details><summary><b>جواب</b></summary>
@@ -88,7 +88,7 @@ DROP DATABASE DATABASE-NAME;
 
 <div dir="rtl">
 
-###### نحوه ایجاد کاربر
+### نحوه ایجاد کاربر
 
 </div>
 <details><summary><b>جواب</b></summary>
@@ -109,7 +109,7 @@ CREATE USER DATABASE-NAME WITH PASSWORD 'PASSWORD';
 
 <div dir="rtl">
 
-###### نحوه ایجاد دیتابیس
+### نحوه ایجاد دیتابیس
 
 </div>
 <details><summary><b>جواب</b></summary>
@@ -129,7 +129,7 @@ create database DATABASE-NAME with owner USER-NAME encoding='UTF8' lc_collate='e
 
 <div dir="rtl">
 
-###### نحوه ایمپورت اسکما از فایل
+### نحوه ایمپورت اسکما از فایل
 
 </div>
 <details><summary><b>جواب</b></summary>
@@ -149,7 +149,7 @@ psql -h localhost -U USER-NAME -d DATABASE-NAME -f sql/FILE-NAME.sql
 
 <div dir="rtl">
 
-###### دستورات پرکاربرد دیگر
+### دستورات پرکاربرد دیگر
 
 </div>
 <details><summary><b>جواب</b></summary>
@@ -215,7 +215,7 @@ HASH_SALT=XXXX
 
 <div dir="rtl">
 
-###### نحوه مشارکت در در پروزه های گیت هاب
+### نحوه مشارکت در در پروزه های گیت هاب
 
 </div>
 <details><summary><b>جواب</b></summary>
