@@ -24,7 +24,7 @@
 
 - [پکیج های پر کاربرد](/ReactUsefulPackages.md)
 
-- [دستورات پر کاربرد](/ReactUsefulPackages.md)
+- [دستورات پر کاربرد](/CommandsTips.md)
 
 - [Dan Abramov](/DanAbramov/index.md)
 
