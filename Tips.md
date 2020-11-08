@@ -34,6 +34,7 @@ console.log(shape.diameter());
 console.log(shape.perimeter());
 ```
 
+<div dir="rtl">
 <details><summary><b>جواب</b></summary>
 <p>
 
@@ -54,7 +55,7 @@ console.log(shape.perimeter());
 
 **[⬆ برو بالا](#index)**
 
----
+## </div>
 
 ###### ۲. خروجی چیست؟
 
@@ -72,6 +73,7 @@ console.log(person[job["name"]]);
 console.log(person[job.name]);
 ```
 
+<div dir="rtl">
 <details><summary><b>جواب</b></summary>
 <p>
 
@@ -84,7 +86,7 @@ console.log(person[job.name]);
 
 **[⬆ برو بالا](#index)**
 
----
+## </div>
 
 ###### ۳. خروجی چیست؟
 
@@ -98,6 +100,7 @@ c.name = "akbar";
 console.log(d.name);
 ```
 
+<div dir="rtl" >
 <details><summary><b>جواب</b></summary>
 <p>
 
@@ -112,7 +115,7 @@ console.log(d.name);
 
 **[⬆ برو بالا](#index)**
 
----
+## </div>
 
 ###### ۴. خروجی چیست؟
 
@@ -126,6 +129,7 @@ c.name = "akbar";
 console.log(d.name);
 ```
 
+<div dir="rtl">
 <details><summary><b>جواب</b></summary>
 <p>
 
@@ -140,7 +144,7 @@ console.log(d.name);
 
 **[⬆ برو بالا](#index)**
 
----
+## </div >
 
 ###### ۵. خروجی چیست؟
 
@@ -152,6 +156,7 @@ console.log(++number);
 console.log(number);
 ```
 
+<div dir="rtl">
 <details><summary><b>جواب</b></summary>
 <p>
 
@@ -161,26 +166,22 @@ console.log(number);
 
 ##### 2
 
-<div dir="rtl">
-
-</div>
-
 </p>
 </details>
 
 **[⬆ برو بالا](#index)**
 
---
+## </div>
 
 <div dir="rtl">
 
 #### globalThis چیست؟
 
 </div>
+<div dir="rtl">
 <details><summary><b>جواب</b></summary>
 <p>
 
-<div dir="rtl">
 globalThis آبجکت گلوبال کانتکس جاری را به ما بر می گرداند
 
 - در مرورگر window
@@ -188,13 +189,13 @@ globalThis آبجکت گلوبال کانتکس جاری را به ما بر م�
 * در nodejs گلوبال یا global
 
 * در ورکر ها self
-</div>
+
 </p>
 </details>
 
 **[⬆ برو بالا](#index)**
 
-## --
+</div>
 
 ---
 
