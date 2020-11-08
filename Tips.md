@@ -224,3 +224,7 @@ globalThis آبجکت گلوبال کانتکس جاری را به ما بر م�
 **[⬆ برو بالا](#index)**
 
 ###### ادامه دارد و به مرور بروز رسانی خواهد شد ..........
+
+## Javascript objects in nutshell
+
+<img src="https://pbs.twimg.com/media/EiMvuJCU4AcwIpQ?format=jpg&name=4096x4096">
