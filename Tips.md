@@ -1,3 +1,5 @@
+<div dir="rtl" align="center">
+
 - [فهرست](/README.md)
 
 ##### index
@@ -7,7 +9,7 @@
 | ۱   | [جاوااسکریپت](#javascript) |
 | ۲   | [ری‌اکت](#reactjs)         |
 
----
+</div>
 
 ---
 
